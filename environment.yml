@@ -1,0 +1,9 @@
+name: image-classifier-env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - tensorflow
+  - flake8
+  - pillow
+  - opencv

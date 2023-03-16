@@ -130,4 +130,7 @@ dmypy.json
 
 # Custom directories / files
 data/
-chino_classifier.h5
+_input/
+_output/
+models/
+%USERPROFILE%/
